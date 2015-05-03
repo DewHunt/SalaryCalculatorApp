@@ -8,6 +8,7 @@ namespace SalaryCalculatorApp
 {
     class Sample
     {
-
+        string firstName, lastName;
+        int age;
     }
 }
