@@ -7,3 +7,6 @@ E:\SALMAN SABBIR\2015-5(May)-2\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug
 E:\SALMAN SABBIR\2015-5(May)-2\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
 E:\SALMAN SABBIR\2015-5(May)-2\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
 E:\SALMAN SABBIR\2015-5(May)-2\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+E:\SEIP-BITM\Git\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\SEIP-BITM\Git\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\SEIP-BITM\Git\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
